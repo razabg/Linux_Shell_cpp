@@ -1,4 +1,4 @@
-# My Custom Shell Project
+# Shell Project
 
 
 ## Overview
